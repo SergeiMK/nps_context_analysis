@@ -7,7 +7,7 @@ scikit-learn
 catboost
 joblib
 
-# Опциональные, но рекомендованные:
+# ГЋГЇГ¶ГЁГ®Г­Г Г«ГјГ­Г»ГҐ, Г­Г® Г°ГҐГЄГ®Г¬ГҐГ­Г¤Г®ГўГ Г­Г­Г»ГҐ:
 meteostat
 timezonefinder[numba]
 psutil
