@@ -1,0 +1,13 @@
+pandas
+numpy
+ephem
+holidays
+tqdm
+scikit-learn
+catboost
+joblib
+
+# Опциональные, но рекомендованные:
+meteostat
+timezonefinder[numba]
+psutil
