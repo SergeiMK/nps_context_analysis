@@ -1,13 +1,22 @@
 pandas
 numpy
+pyarrow 
+pyephem 
 ephem
 holidays
+geopy 
+pytz 
 tqdm
+optuna
+psutil
 scikit-learn
 catboost
 joblib
+
+
 
 # Îïöèîíàëüíûå, íî ðåêîìåíäîâàííûå:
 meteostat
 timezonefinder[numba]
 psutil
+
