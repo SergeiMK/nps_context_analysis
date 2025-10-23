@@ -8,7 +8,6 @@ geopy
 pytz 
 tqdm
 optuna
-psutil
 scikit-learn
 catboost
 joblib
@@ -19,4 +18,5 @@ joblib
 meteostat
 timezonefinder[numba]
 psutil
+
 
